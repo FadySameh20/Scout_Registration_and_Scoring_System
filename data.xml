@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scout>
+    <equipiers>
+        <equipier>
+            <name>Joseph Nagy Naguib Nashed</name>
+            <equipe>Panthere</equipe>
+            <date_of_birth>20/4/2005</date_of_birth>
+            <mobile>01115590669</mobile>
+            <national_id>30504208800119</national_id>
+            <bonus>0</bonus>
+            <total>0</total>
+            <activities/>
+        </equipier>
+        <equipier>
+            <name>Andrew Bahaa Bahgat Mattar</name>
+            <equipe>Panthere</equipe>
+            <date_of_birth>27/4/2004</date_of_birth>
+            <mobile>01019561634</mobile>
+            <national_id>30404270201898</national_id>
+            <bonus>0</bonus>
+            <total>0</total>
+            <activities/>
+        </equipier>
+        <equipier>
+            <name>Caven Ayman Nagy Lawendy</name>
+            <equipe>Panthere</equipe>
+            <date_of_birth>23/4/2005</date_of_birth>
+            <mobile>01286755618</mobile>
+            <national_id>30504230202292</national_id>
+            <bonus>0</bonus>
+            <total>0</total>
+            <activities/>
+        </equipier>
+        <equipier>
+            <name>Gabriel Georges Tanios Zaki</name>
+            <equipe>Panthere</equipe>
+            <date_of_birth>30/9/2002</date_of_birth>
+            <mobile>01229932364</mobile>
+            <national_id>30209300206493</national_id>
+            <bonus>0</bonus>
+            <total>0</total>
+            <activities/>
+        </equipier>
+        <equipier>
+            <name>Kirollos Antoun Fawzy Aziz</name>
+            <equipe>Panthere</equipe>
+            <date_of_birth>3/2/2006</date_of_birth>
+            <mobile>01284837262</mobile>
+            <national_id/>
+            <bonus>0</bonus>
+            <total>0</total>
+            <activities/>
+        </equipier>
+        <equipier>
+            <name>Maximos Maher Mourice Abdallah</name>
+            <equipe>Panthere</equipe>
+            <date_of_birth>12/9/2007</date_of_birth>
+            <mobile>01229721554</mobile>
+            <national_id>30709120202999</national_id>
+            <bonus>0</bonus>
+            <total>0</total>
+            <activities/>
+        </equipier>
+        <equipier>
+            <name>Youssef Medhat Anwar Nassif</name>
+            <equipe>Leopard</equipe>
+            <date_of_birth>16/1/2004</date_of_birth>
+            <mobile>01281276033</mobile>
+            <national_id>30401160200455</national_id>
+            <bonus>0</bonus>
+            <total>0</total>
+            <activities/>
+        </equipier>
+        <equipier>
+            <name>Mena Remoun Shaker Moureis</name>
+            <equipe>Leopard</equipe>
+            <date_of_birth>19/3/2004</date_of_birth>
+            <mobile>01203121150</mobile>
+            <national_id>30403190200274</national_id>
+            <bonus>0</bonus>
+            <total>0</total>
+            <activities/>
+        </equipier>
+        <equipier>
+            <name>Eric Emad Nabih Sabit</name>
+            <equipe>Leopard</equipe>
+            <date_of_birth>24/8/2007</date_of_birth>
+            <mobile>01010154505</mobile>
+            <national_id>30708240201957</national_id>
+            <bonus>0</bonus>
+            <total>0</total>
+            <activities/>
+        </equipier>
+        <equipier>
+            <name>Pavly Ezzat Fayez Ibrahem</name>
+            <equipe>Leopard</equipe>
+            <date_of_birth>11/4/2006</date_of_birth>
+            <mobile>01212437374</mobile>
+            <national_id/>
+            <bonus>0</bonus>
+            <total>0</total>
+            <activities/>
+        </equipier>
+        <equipier>
+            <name>Philopater Ayman Nagy Lawendy</name>
+            <equipe>Leopard</equipe>
+            <date_of_birth>15/11/2003</date_of_birth>
+            <mobile>01286754295</mobile>
+            <national_id>30311150201594</national_id>
+            <bonus>0</bonus>
+            <total>0</total>
+            <activities/>
+        </equipier>
+        <equipier>
+            <name>Mark Maged Samer Azmi</name>
+            <equipe>Leopard</equipe>
+            <date_of_birth>6/5/2007</date_of_birth>
+            <mobile>01276802476</mobile>
+            <national_id/>
+            <bonus>0</bonus>
+            <total>0</total>
+            <activities/>
+        </equipier>
+        <equipier>
+            <name>Peter Antoun Fawzy Aziz</name>
+            <equipe>Leopard</equipe>
+            <date_of_birth>21/12/2007</date_of_birth>
+            <mobile>01207294436</mobile>
+            <national_id/>
+            <bonus>0</bonus>
+            <total>0</total>
+            <activities/>
+        </equipier>
+        <equipier>
+            <name>Arsanios Samir Gerges Zekry</name>
+            <equipe>Leopard</equipe>
+            <date_of_birth>14/4/2004</date_of_birth>
+            <mobile>01276322978</mobile>
+            <national_id>30404140202159</national_id>
+            <bonus>0</bonus>
+            <total>0</total>
+            <activities/>
+        </equipier>
+    </equipiers>
+</scout>

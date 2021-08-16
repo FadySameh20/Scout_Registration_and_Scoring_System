@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scout>
+    <equipiers>
+        <equipier>
+            <name>Maximos Maher Mourice Abdallah</name>
+            <equipe>Panthere</equipe>
+            <date_of_birth>12/9/2007</date_of_birth>
+            <mobile>01229721554</mobile>
+            <national_id>30709120202999</national_id>
+            <bonus>35</bonus>
+            <total>544</total>
+            <activities>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>1</points>
+                </activity>
+                <activity>
+                    <activity_name>Bible</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (14/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Music using an app (Bonus)</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>4</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>6</points>
+                </activity>
+                <activity>
+                    <activity_name>Research</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Bible</activity_name>
+                    <points>6</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (21/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>1</points>
+                </activity>
+                <activity>
+                    <activity_name>Research</activity_name>
+                    <points>10</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (28/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Research</activity_name>
+                    <points>10</points>
+                </activity>
+                <activity>
+                    <activity_name>Losing 1kg of weight</activity_name>
+                    <points>10</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>1</points>
+                </activity>
+                <activity>
+                    <activity_name>Art (Drawing)</activity_name>
+                    <points>9</points>
+                </activity>
+                <activity>
+                    <activity_name>Cycling (Bonus)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (4/8/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>1</points>
+                </activity>
+                <activity>
+                    <activity_name>Research</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Losing 2kg of wieght</activity_name>
+                    <points>16</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Art (Drawing)</activity_name>
+                    <points>6</points>
+                </activity>
+                <activity>
+                    <activity_name>Codes</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (11/8/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>1</points>
+                </activity>
+                <activity>
+                    <activity_name>Research</activity_name>
+                    <points>12</points>
+                </activity>
+                <activity>
+                    <activity_name>Drawing</activity_name>
+                    <points>6</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (18/8/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>2</points>
+                </activity>
+                <activity>
+                    <activity_name>Planting</activity_name>
+                    <points>8</points>
+                </activity>
+                <activity>
+                    <activity_name>Research</activity_name>
+                    <points>8</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>8</points>
+                </activity>
+                <activity>
+                    <activity_name>Drawing</activity_name>
+                    <points>6</points>
+                </activity>
+                <activity>
+                    <activity_name>Drawing</activity_name>
+                    <points>6</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Origami (Bonus)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Origami (Bonus)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Driving a car (Bonus)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Videos (Bonus)</activity_name>
+                    <points>8</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (1/9/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>25</points>
+                </activity>
+                <activity>
+                    <activity_name>Origami</activity_name>
+                    <points>6</points>
+                </activity>
+                <activity>
+                    <activity_name>Drawing</activity_name>
+                    <points>17</points>
+                </activity>
+                <activity>
+                    <activity_name>Research</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Losing 1kg of weight</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (8/9/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Origami</activity_name>
+                    <points>15</points>
+                </activity>
+                <activity>
+                    <activity_name>Drawing</activity_name>
+                    <points>25</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>13</points>
+                </activity>
+                <activity>
+                    <activity_name>Research</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (15/9/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>8</points>
+                </activity>
+                <activity>
+                    <activity_name>Research</activity_name>
+                    <points>25</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>9</points>
+                </activity>
+                <activity>
+                    <activity_name>Origami</activity_name>
+                    <points>6</points>
+                </activity>
+                <activity>
+                    <activity_name>Drawing</activity_name>
+                    <points>25</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (25/9/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>DrawingCamp Food Programme</activity_name>
+                    <points>8</points>
+                </activity>
+                <activity>
+                    <activity_name>Technique</activity_name>
+                    <points>9</points>
+                </activity>
+                <activity>
+                    <activity_name>Drawing</activity_name>
+                    <points>25</points>
+                </activity>
+                <activity>
+                    <activity_name>Origami</activity_name>
+                    <points>13</points>
+                </activity>
+                <activity>
+                    <activity_name>Research</activity_name>
+                    <points>9</points>
+                </activity>
+            </activities>
+        </equipier>
+        <equipier>
+            <name>Eric Emad Nabih Sabit</name>
+            <equipe>Leopard</equipe>
+            <date_of_birth>24/8/2007</date_of_birth>
+            <mobile>01010154505</mobile>
+            <national_id>30708240201957</national_id>
+            <bonus>33</bonus>
+            <total>421</total>
+            <activities>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>1</points>
+                </activity>
+                <activity>
+                    <activity_name>Bible</activity_name>
+                    <points>9</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (14/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (21/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Technique</activity_name>
+                    <points>9</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>1</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (28/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>1</points>
+                </activity>
+                <activity>
+                    <activity_name>Technique</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (4/8/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>4</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>8</points>
+                </activity>
+                <activity>
+                    <activity_name>Codes</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Technique</activity_name>
+                    <points>6</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (11/8/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>6</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>10</points>
+                </activity>
+                <activity>
+                    <activity_name>Fxing the door (Bonus)</activity_name>
+                    <points>10</points>
+                </activity>
+                <activity>
+                    <activity_name>Losing 2kg of wieght</activity_name>
+                    <points>16</points>
+                </activity>
+                <activity>
+                    <activity_name>Fixing the chair (Bonus)</activity_name>
+                    <points>8</points>
+                </activity>
+                <activity>
+                    <activity_name>Art</activity_name>
+                    <points>9</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>9</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (18/8/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>35</points>
+                </activity>
+                <activity>
+                    <activity_name>Makinh his bed</activity_name>
+                    <points>12</points>
+                </activity>
+                <activity>
+                    <activity_name>Research</activity_name>
+                    <points>20</points>
+                </activity>
+                <activity>
+                    <activity_name>Reading a story (Bonus)</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Videos (Bonus)</activity_name>
+                    <points>8</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (1/9/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>6</points>
+                </activity>
+                <activity>
+                    <activity_name>Drawing</activity_name>
+                    <points>35</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>18</points>
+                </activity>
+                <activity>
+                    <activity_name>Origami</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Research</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (8/9/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Drawing</activity_name>
+                    <points>30</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (15/9/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>18</points>
+                </activity>
+                <activity>
+                    <activity_name>Planting</activity_name>
+                    <points>15</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (25/9/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>6</points>
+                </activity>
+                <activity>
+                    <activity_name>Camp Food Programme</activity_name>
+                    <points>9</points>
+                </activity>
+            </activities>
+        </equipier>
+        <equipier>
+            <name>Joseph Nagy Naguib Nashed</name>
+            <equipe>Panthere</equipe>
+            <date_of_birth>20/4/2005</date_of_birth>
+            <mobile>01115590669</mobile>
+            <national_id>30504208800119</national_id>
+            <bonus>40</bonus>
+            <total>267</total>
+            <activities>
+                <activity>
+                    <activity_name>Attendance (7/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>1</points>
+                </activity>
+                <activity>
+                    <activity_name>Bible</activity_name>
+                    <points>9</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (14/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>6</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>3</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Bible</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (21/7/2020)</activity_name>
+                    <points>2</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>6</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (28/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (4/8/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>10</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>8</points>
+                </activity>
+                <activity>
+                    <activity_name>Codes</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (11/8/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>9</points>
+                </activity>
+                <activity>
+                    <activity_name>Making your bed</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Giving a lecture (Bonus)</activity_name>
+                    <points>8</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (18/8/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>12</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>9</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>8</points>
+                </activity>
+                <activity>
+                    <activity_name>Merit Badge (el ra7al)</activity_name>
+                    <points>25</points>
+                </activity>
+                <activity>
+                    <activity_name>Preparing a presentation (Bonus)</activity_name>
+                    <points>20</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (1/9/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Commitment (Bonus)</activity_name>
+                    <points>13</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>2</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (15/9/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+            </activities>
+        </equipier>
+        <equipier>
+            <name>Caven Ayman Nagy Lawendy</name>
+            <equipe>Panthere</equipe>
+            <date_of_birth>23/4/2005</date_of_birth>
+            <mobile>01286755618</mobile>
+            <national_id>30504230202292</national_id>
+            <bonus>0</bonus>
+            <total>98</total>
+            <activities>
+                <activity>
+                    <activity_name>Attendance (7/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>1</points>
+                </activity>
+                <activity>
+                    <activity_name>Bible</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (14/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>4</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Cooking</activity_name>
+                    <points>8</points>
+                </activity>
+                <activity>
+                    <activity_name>Bible</activity_name>
+                    <points>6</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>2</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (28/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (11/8/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>1</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>4</points>
+                </activity>
+                <activity>
+                    <activity_name>Losing 2kg of weight</activity_name>
+                    <points>18</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (8/9/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>2</points>
+                </activity>
+            </activities>
+        </equipier>
+        <equipier>
+            <name>Pavly Ezzat Fayez Ibrahem</name>
+            <equipe>Leopard</equipe>
+            <date_of_birth>11/4/2006</date_of_birth>
+            <mobile>01212437374</mobile>
+            <national_id/>
+            <bonus>0</bonus>
+            <total>69</total>
+            <activities>
+                <activity>
+                    <activity_name>Attendance (7/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>1</points>
+                </activity>
+                <activity>
+                    <activity_name>Bible</activity_name>
+                    <points>10</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (14/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (21/7/2020)</activity_name>
+                    <points>2</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (4/8/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (11/8/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>1</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (18/8/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (8/9/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (15/9/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+            </activities>
+        </equipier>
+        <equipier>
+            <name>Andrew Bahaa Bahgat Mattar</name>
+            <equipe>Panthere</equipe>
+            <date_of_birth>27/4/2004</date_of_birth>
+            <mobile>01019561634</mobile>
+            <national_id>30404270201898</national_id>
+            <bonus>7</bonus>
+            <total>38</total>
+            <activities>
+                <activity>
+                    <activity_name>Attendance (7/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>1</points>
+                </activity>
+                <activity>
+                    <activity_name>Bible</activity_name>
+                    <points>8</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (14/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>2</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (28/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Giving a lecture (Bonus)</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (11/8/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+            </activities>
+        </equipier>
+        <equipier>
+            <name>Mena Remoun Shaker Moureis</name>
+            <equipe>Leopard</equipe>
+            <date_of_birth>19/3/2004</date_of_birth>
+            <mobile>01203121150</mobile>
+            <national_id>30403190200274</national_id>
+            <bonus>0</bonus>
+            <total>30</total>
+            <activities>
+                <activity>
+                    <activity_name>Attendance (7/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (14/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Workout</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Bible</activity_name>
+                    <points>8</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>2</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (8/9/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+            </activities>
+        </equipier>
+        <equipier>
+            <name>Kirollos Antoun Fawzy Aziz</name>
+            <equipe>Panthere</equipe>
+            <date_of_birth>3/2/2006</date_of_birth>
+            <mobile>01284837262</mobile>
+            <national_id/>
+            <bonus>2</bonus>
+            <total>25</total>
+            <activities>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>1</points>
+                </activity>
+                <activity>
+                    <activity_name>Bible</activity_name>
+                    <points>7</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (14/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Interaction (Bonus)</activity_name>
+                    <points>2</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (21/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (4/8/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+            </activities>
+        </equipier>
+        <equipier>
+            <name>Peter Antoun Fawzy Aziz</name>
+            <equipe>Leopard</equipe>
+            <date_of_birth>21/12/2007</date_of_birth>
+            <mobile>01207294436</mobile>
+            <national_id/>
+            <bonus>0</bonus>
+            <total>24</total>
+            <activities>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>1</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (14/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (21/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (28/7/2020)</activity_name>
+                    <points>2</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (4/8/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>1</points>
+                </activity>
+                <activity>
+                    <activity_name>Attendance (11/8/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+            </activities>
+        </equipier>
+        <equipier>
+            <name>Arsanios Samir Gerges Zekry</name>
+            <equipe>Leopard</equipe>
+            <date_of_birth>14/4/2004</date_of_birth>
+            <mobile>01276322978</mobile>
+            <national_id>30404140202159</national_id>
+            <bonus>0</bonus>
+            <total>7</total>
+            <activities>
+                <activity>
+                    <activity_name>Attendance (7/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+                <activity>
+                    <activity_name>Making his bed</activity_name>
+                    <points>2</points>
+                </activity>
+            </activities>
+        </equipier>
+        <equipier>
+            <name>Youssef Medhat Anwar Nassif</name>
+            <equipe>Leopard</equipe>
+            <date_of_birth>16/1/2004</date_of_birth>
+            <mobile>01281276033</mobile>
+            <national_id>30401160200455</national_id>
+            <bonus>0</bonus>
+            <total>5</total>
+            <activities>
+                <activity>
+                    <activity_name>Attendance (7/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+            </activities>
+        </equipier>
+        <equipier>
+            <name>Mark Maged Samer Azmi</name>
+            <equipe>Leopard</equipe>
+            <date_of_birth>6/5/2007</date_of_birth>
+            <mobile>01276802476</mobile>
+            <national_id/>
+            <bonus>0</bonus>
+            <total>5</total>
+            <activities>
+                <activity>
+                    <activity_name>Attendance (21/7/2020)</activity_name>
+                    <points>5</points>
+                </activity>
+            </activities>
+        </equipier>
+        <equipier>
+            <name>Gabriel Georges Tanios Zaki</name>
+            <equipe>Panthere</equipe>
+            <date_of_birth>30/9/2002</date_of_birth>
+            <mobile>01229932364</mobile>
+            <national_id>30209300206493</national_id>
+            <bonus>0</bonus>
+            <total>0</total>
+            <activities/>
+        </equipier>
+        <equipier>
+            <name>Philopater Ayman Nagy Lawendy</name>
+            <equipe>Leopard</equipe>
+            <date_of_birth>15/11/2003</date_of_birth>
+            <mobile>01286754295</mobile>
+            <national_id>30311150201594</national_id>
+            <bonus>0</bonus>
+            <total>0</total>
+            <activities/>
+        </equipier>
+    </equipiers>
+</scout>
